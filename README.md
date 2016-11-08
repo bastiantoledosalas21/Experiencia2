@@ -1,1 +1,1 @@
-# El IndexHtml tiene el codigo de del php y el index.html
+# El IndexHtml tiene el codigo del php y el index.html
